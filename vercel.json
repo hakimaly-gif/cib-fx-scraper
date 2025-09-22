@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "api/cib-rates.js": {
+      "memory": 1024,
+      "maxDuration": 15
+    }
+  },
+  "routes": [
+    { "src": "/api/cib-rates", "dest": "/api/cib-rates.js" }
+  ]
+}
