@@ -1,0 +1,10 @@
+{
+  "name": "cib-fx-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@sparticuz/chromium": "^124.0.0",
+    "puppeteer-core": "^22.15.0"
+  }
+}
